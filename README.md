@@ -17,13 +17,7 @@ Here are some ideas to get you started:
 
 I am **Ervina Rosa Aulia**🌸
 
-A 5th semester student of the Information Systems at UPN "Veteran" East Java💻
-
-I have a knack for organizing and managing finances for student organizations. 💰
-
-I am excited to share that I am currently part of the Independent Study program at Bangkit Academy Batch 2 as a cloud computing cohort ☁️.
-
-If you want to connect, feel free to follow my [LinkedIn](https://www.linkedin.com/in/ervinarosaaulia/) account! 🌐
+A 6th semester student of the Information Systems at UPN "Veteran" East Java. I have a knack for organizing and managing finances for student organizations. If you want to connect, feel free to follow my [LinkedIn](https://www.linkedin.com/in/ervinarosaaulia/) account! 🌐
 
 ### Github Statistic
 <p align="left">
